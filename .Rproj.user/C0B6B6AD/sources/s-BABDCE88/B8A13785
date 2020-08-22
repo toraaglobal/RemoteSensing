@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1598128853111.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1149521436",
+    "id" : "B8A13785",
+    "lastKnownWriteTime" : 1598130214,
+    "last_content_update" : 1598130214310,
+    "path" : "C:/Users/teeja/Desktop/RS/RemoteSensing/vegetation_indices.R",
+    "project_path" : "vegetation_indices.R",
+    "properties" : {
+        "cursorPosition" : "28,0",
+        "scrollLine" : "10",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

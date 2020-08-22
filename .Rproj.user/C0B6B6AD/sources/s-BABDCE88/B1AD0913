@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1598119231892.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2714047028",
+    "id" : "B1AD0913",
+    "lastKnownWriteTime" : 1598130394,
+    "last_content_update" : 1598130394273,
+    "path" : "C:/Users/teeja/Desktop/RS/RemoteSensing/bands_ratio.R",
+    "project_path" : "bands_ratio.R",
+    "properties" : {
+        "cursorPosition" : "13,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
