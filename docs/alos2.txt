@@ -1,0 +1,2 @@
+Where to download ALOS PALSAR data from : 
+	http://www.eorc.jaxa.jp/ALOS/en/palsar_fnf/fnf_index.htm

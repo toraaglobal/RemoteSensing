@@ -1,0 +1,2 @@
+Band designations of the different Landsat sensors:
+	https://landsat.usgs.gov/what-are-band-designations-landsat-satellites
