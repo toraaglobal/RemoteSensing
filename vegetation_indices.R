@@ -18,12 +18,15 @@ ndvi = spectralIndices(p22_2011, red = "B3_dn", nir = 'B4_dn', indices = 'NDVI')
 
 plot(ndvi)
 
+
+
 # Convert DN to reflectance
 inds_ref = radCor(p22_2011, metaData = meta2011, method = 'apref')
 
 # spectral indices
 SI = spectralIndices(inds_ref, red = 'B3_tre',nir = 'B4_tre' )
 plot(SI)
+
 
 ggR(ndvi, geom_raster = TRUE) + scale_fill_gradientn(colours=c('blue','red'))
 
